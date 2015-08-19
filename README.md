@@ -1,2 +1,2 @@
 # Meteor-ramda
-[https://github.com/ramda/ramda](Ramda): A practical functional library for Javascript programmers.
+[Ramda](https://github.com/ramda/ramda): A practical functional library for Javascript programmers.
