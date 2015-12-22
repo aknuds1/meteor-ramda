@@ -1,7 +1,9 @@
+'use strict';
+
 Package.describe({
     name: 'aknudsen:ramda',
     summary: 'A practical functional library for Javascript programmers.',
-    version: '0.18.0',
+    version: '0.19.0',
     git: 'https://github.com/aknuds1/meteor-ramda.git',
 });
 
